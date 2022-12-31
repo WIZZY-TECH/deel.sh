@@ -1,0 +1,1 @@
+echo "i have started applying for DevOps jobs and i know by the grace of God i will get a better offer soon"
